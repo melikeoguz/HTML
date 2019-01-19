@@ -82,13 +82,13 @@ Etiketler  | Görevleri
 **< h1 >**        |  Bir sayfada bulunan başlığı yazmak için kullanılır.
 **< p >**         | Paragraf yazmak için kullanılır.
 **< pre >**       | Yazıyı içindeki boşluklarla olduğu gibi yazar.
+**< q >**         | Alıntılıma yapmak için kullanılır.
 **< sup >**       | Yazılan herhangi bir şeyi üste taşır.
 **< sub >**       | Yazılan herhangi bir şeyi alta taşır.
 **< br >**        | Alt satıra geçmek için kullanılır.
 **< code >**      | Bilgisayar yazısı yazmak için kullanılır.
 **<  i  >**       | İtalik yazmak için kullanılır.
 **< strong>**     | Kalın yazmak için kullanılır.
-**< q >**         | Alıntılıma yapmak için kullanılır.
 **< blockquote >**| Girinti oluşturmak için kullanılır.
 
 
