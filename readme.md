@@ -17,7 +17,7 @@ Html `(Hyper Text Markup Language)` için kullanılan birtakım etiketler bulunm
 
 >< p > Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. < /p >
 
-<br>**< pre > :** Yazdığınız paragrafın içindeki boşlukları ve diğer düzenlemeleri olduğu gibi sayfaya aktarır. Etiketi sonlandırmak için `< /pre >` kullanmalısınız.
+<br>**< pre > :** Yazdığınız paragrafın içindeki boşlukları ve diğer düzenlemeleri olduğu gibi sayfaya aktarır. Etiketi sonlandırmak için  `< /pre >` kullanmalısınız.
 
     DİĞER ETİKETLER
     
