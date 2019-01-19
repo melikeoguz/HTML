@@ -75,7 +75,7 @@ Html `(Hyper Text Markup Language)` için kullanılan birtakım etiketler bulunm
 
 <br>
 
-**ÖZET**<br><br> 
+**< ÖZET >**<br><br> 
 
 Etiketler  | Görevleri
 :------------- | :------------
