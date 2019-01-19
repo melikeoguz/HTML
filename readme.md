@@ -1,6 +1,6 @@
 ## HTML
 
-Html `(Hyper Text Markup Language)` için kullanılan birtakım etiketler bulunmaktadır.
+<abbr title="Hyper Text Markup Language">**HTML**</abbr> için kullanılan birtakım etiketler bulunmaktadır.
 
      BAŞLIK ETİKETLERİ
      
