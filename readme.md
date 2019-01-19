@@ -75,6 +75,9 @@ Html `(Hyper Text Markup Language)` için kullanılan birtakım etiketler bulunm
 
 <br>
 
+<br/>![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGzWTeamVPoRvyem4OlkmhD1ly3S5QbWCKv1PdtsHdJtSTIcx)
+<br/>
+
 **< ÖZET >**<br><br> 
 
 Etiketler  | Görevleri
@@ -92,8 +95,7 @@ Etiketler  | Görevleri
 **< blockquote >**| Girinti oluşturmak için kullanılır.
 
 
- [ Html kursu almak istiyorsanız buraya tıklamanız yeterli !](https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/)
+
  
-<br/>![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGzWTeamVPoRvyem4OlkmhD1ly3S5QbWCKv1PdtsHdJtSTIcx)
-<br/>
+
 
