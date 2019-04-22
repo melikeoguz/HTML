@@ -97,5 +97,18 @@ Etiketler  | Görevleri
 <br/>
 
  
+* **EKLENECEKLER**
+<ul> * liste etiketi
+<ul>* abbr etiketi
 
+_Read this in other languages:_
+[_Turkish_](https://github.com/melikeoguz/HTML/),
+[_English_](https://github.com/melikeoguz/HTML.md),
+[_繁體中文_](HTML.zh-TW.md),
+[_한국어_](HTML.ko-KR.md),
+[_日本語_](HTML.ja-JP.md),
+[_Polski_](HTML.pl-PL.md),
+[_Français_](HTML.fr-FR.md),
+[_Español_](HTML.es-ES.md),
+[_Português_](HTML.pt-BR.md)
 
